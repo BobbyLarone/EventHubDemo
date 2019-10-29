@@ -14,7 +14,9 @@ namespace EventHubDemo
         private const string StorageAccountName = "{Storage account name}";
         private const string StorageAccountKey = "{Storage account key}";
 
-        private static readonly string StorageConnectionString = string.Format("DefaultEndpointsProtocol=https;AccountName={0};AccountKey={1}", StorageAccountName, StorageAccountKey);
+        private static readonly string StorageConnectionString = $"DefaultEndpointsProtocol=https;AccountName={StorageAccountName};AccountKey={StorageAccountKey}";
+
+
 
         static void Main(string[] args)
         {
