@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventHubDemo", "EventHubDemo\EventHubDemo.csproj", "{F7CF97EB-8459-4384-8A9A-46E93E3B0CEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7CF97EB-8459-4384-8A9A-46E93E3B0CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7CF97EB-8459-4384-8A9A-46E93E3B0CEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7CF97EB-8459-4384-8A9A-46E93E3B0CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7CF97EB-8459-4384-8A9A-46E93E3B0CEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6478A478-76F6-4EBD-B4A2-E542758A815A}
+	EndGlobalSection
+EndGlobal
